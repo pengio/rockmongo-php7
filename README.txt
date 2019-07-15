@@ -61,3 +61,5 @@ Contributing
 Somebody who want to contribute to the project, may help us by doing these:
 * Translate messages from English to other languages (you can see them in app/langs directory)
 * Make donations here: http://rockmongo.com/donation
+
+## sudo pecl install mongodb
